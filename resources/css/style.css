@@ -22,8 +22,17 @@ body {
     font-style: 21px;
     color: grey;
 }
+
 /* LINKER */
 .link--cta {
     font-size: 18px;
     color: aquamarine;
+}
+
+/* FOOTER */
+
+.footer--copyright {
+    font-style: 21px;
+    color: grey;
+    text-align: right;
 }
